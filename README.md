@@ -1,4 +1,4 @@
-Hey, I'm Carson Powers, a developer and student studying engineering. at Texas A&M University
+Hey, I'm Carson Powers, a developer and student studying engineering at Texas A&M University.
 Reach me at: crpowers0@gmail.com
 
 <!---
